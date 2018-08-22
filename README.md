@@ -1,3 +1,3 @@
 # season 
 # tutorial basics
-Practice makes perfect.
+> Practice makes perfect.
